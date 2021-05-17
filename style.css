@@ -1,0 +1,36 @@
+:root{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(196, 115, 115);
+}
+.ata{
+    position: absolute;
+    top: 15%;
+    left: 70%;
+    width:10%;
+    height:10%;
+}
+.ulke{
+    width: 40%;
+    height: 10%;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+}
+.a19m{
+    position: fixed;
+    left:5%;
+    font: optional;
+    font-size: 120px;
+    color: maroon;
+    text-shadow: rgb(255, 0, 0) 10px 12px 5px;
+}
+.b19m{
+    color: maroon;
+    position: fixed;
+    left:10%;
+    bottom: 35%;
+    text-shadow: rgb(255, 0, 0) 4px 4px 4px;
+}
